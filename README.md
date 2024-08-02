@@ -1,5 +1,6 @@
 > # INFO: NOT RELEASED
 > #### Expected release date: Before August 12, 2024
+> (All download links might not be available before release date.)
 
 
 ## Keycode: Your Customizable Floating Button App
@@ -16,7 +17,7 @@
 
 **Getting Started:**
 
-1. **Download and Install:** Download Keycode from the [website](https://tooldroid+poggers.neocities.org/#keycode).
+1. **Download and Install:** Download Keycode from the [website](https://tooldroid-poggers.neocities.org/#keycode).
 2. **Launch the App:** Open Keycode and grant all necessary permissions.
 3. **Create a Button:** Goto **Keycodes** tab and tap the "+" button and customize its appearance (size, color, transparency).
 4. **Assign an Action:** Choose a keystroke you want the button to perform.
@@ -33,4 +34,4 @@ For any questions or feedback, contact us at [notlifetechlolv2@gmail.com](mailto
 
 **We hope Keycode empowers you to take control of your mobile experience!**
 
-## [Download here](https://tooldroid+poggers.neocities.org/#keycode)
+## [Download here](https://tooldroid-poggers.neocities.org/#keycode)
